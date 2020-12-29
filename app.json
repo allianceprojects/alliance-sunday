@@ -1,17 +1,17 @@
 {
-  "name": "Friday-Userbot",
-  "description": "A Userbot Based On Telethon By Friday Devs",
-  "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
+  "name": "Alliance-Userbot",
+  "description": "A Userbot Based On Telethon By Alliance Devs",
+  "logo": "https://telegra.ph/file/4ca979b68a8643c1c68f7.jpg",
   "keywords": [
     "telegram",
     "fridaybot",
     "plugin",
-    "telegram-fridaybot",
+    "telegram-sundaybot",
     "productivity"
   ],
-  "repository": "https://github.com/starkgang/FridayUserbot",
-  "website": "starkgang.ml",
-  "success_url": "t.me/FridayOT",
+  "repository": "https://github.com/allianceprojects/alliance-sunday",
+  "website": "http://t.me/allianceproject",
+  "success_url": "t.me/allianceofficial",
   "stack": "container",
   "env": {
     "ENV": {
@@ -62,7 +62,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: Midhunkm1294/FridayUserbot, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: allianceprojects/alliance-sunday but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
